@@ -2,3 +2,7 @@ URL Links:
 1.https://github.com/lyyyuna/Robot-Framework-Sample-Project
 
 2.setuptools-x.x$ python setup.py install --prefix=/opt/setuptools
+
+3.https://pypi.python.org/pypi/setuptools
+
+4.https://github.com/pypa/setuptools
