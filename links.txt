@@ -8,3 +8,5 @@ URL Links:
 4.https://github.com/pypa/setuptools
 
 5.https://github.com/yaphone/RasWxMusicbox
+
+6.http://www.lfd.uci.edu/~gohlke/pythonlibs/
