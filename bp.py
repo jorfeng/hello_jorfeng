@@ -1,5 +1,6 @@
 import numpy as np
 from sklearn import datasets
+import pdb
 
 irs = datasets.load_iris()
 data = irs.data
@@ -30,16 +31,14 @@ class BP(object):
         #print 'b1:', b1
         #print 'W2:', W2
         #print 'b2:', b2
-        import pdb
-        pdb.set_trace()
         
         for i in xrange(loops):
             for X in data:
-#print X, W1
+                pdb.set_trace()
                 z1 = X.dot(W1.T) + b1
                 break
 
-#print X, z1
+            #print X, z1
             break
 
 if __name__ == '__main__':
